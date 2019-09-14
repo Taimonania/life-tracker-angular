@@ -1,0 +1,33 @@
+{
+  "name": "life-tracker",
+  "version": "1.0.0",
+  "description": "An application that lets you track your experiences and visualize them on a time axis.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "@types/node": "^12.7.5",
+    "nodemon": "^1.19.2",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.6.3"
+  },
+  "scripts": {
+    "start": "node dist/api/server.js",
+    "dev": "nodemon api/server.ts",
+    "prod": "tsc -p . && node dist/api/server.js",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taimonania/life-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taimonania/life-tracker/issues"
+  },
+  "homepage": "https://github.com/Taimonania/life-tracker#readme"
+}
