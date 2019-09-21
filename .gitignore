@@ -1,6 +1,9 @@
 # do not sync compiled javascript
 dist/
 
+# IntelliJ project settings
+.idea/
+
 
 # Logs
 logs
