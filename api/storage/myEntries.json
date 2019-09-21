@@ -1,14 +1,18 @@
 [
-    {
-        "id": 1,
-        "text": "First entry in the dictionary"
-    },
-    {
-        "id": 2,
-        "text": "Second entry in the dictionary"
-    },
-    {
-        "id": 3,
-        "text": "Today was a really nice day. Maybe that is because I am already using this diary for three days ..."
-    }
+	{
+		"id": 0,
+		"text": "First entry in the dictionary"
+	},
+	{
+		"id": 1,
+		"text": "Second entry in the dictionary"
+	},
+	{
+		"id": 2,
+		"text": "Today was a really nice day. Maybe that is because I am already using this diary for three days ..."
+	},
+	{
+		"id": 3,
+		"text": "And another (already the 4th!!!) entry in this awesome diary."
+	}
 ]
